@@ -3,5 +3,5 @@ Bem vindo! Este repositório foi feito com o propósito de manter projetos e aco
 
 ## Progresso de Trilha
 ### Cultura Ágil e Segurança (34h50m)
--[ ] Segurança em Aplicações WEB
--[ ] Gestão Ágil com Scrum, Kanban & Nexus: O Guia Definitivo
+- [ ] Segurança em Aplicações WEB
+- [ ] Gestão Ágil com Scrum, Kanban & Nexus: O Guia Definitivo
