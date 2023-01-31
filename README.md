@@ -10,6 +10,7 @@ Bem vindo! Este repositório foi feito com o propósito de manter projetos e aco
 - [x] Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)
 - [ ] Administração de Sistemas GNU/Linux: Fundamentos e Prática
 - [ ] Data & Analytics - PB - AWS 1/10
+
 __Essa página que você está lendo foi feita com os conhecimentos do curso de Git, além da mesma ser um dos projetos desse repositório.__
 
 ### Sprint 2 (17h50m)
