@@ -8,14 +8,14 @@ Bem vindo! Este repositório foi feito com o propósito de manter projetos e aco
 
 ### Sprint 1 (16h36m)
 - [x] Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)
-- [ ] Administração de Sistemas GNU/Linux: Fundamentos e Prática
-- [ ] Data & Analytics - PB - AWS 1/10
+- [x] Administração de Sistemas GNU/Linux: Fundamentos e Prática
+- [x] Data & Analytics - PB - AWS 1/10
 
 *Essa página que você está lendo foi feita com os conhecimentos do curso de Git, além da mesma ser um dos projetos desse repositório.*
 
 ### Sprint 2 (17h50m)
-- [ ] Data & Analytics - PB - AWS 2/10
-- [ ] SQL para Análise de Dados: Do básico ao avançado
+- [x] Data & Analytics - PB - AWS 2/10
+- [x] SQL para Análise de Dados: Do básico ao avançado
 - [ ] Data & Analytics - PB - AWS 2/10
 - [ ] Big Data Fundamentos 3.0
 - [ ] Data & Analytics - PB - AWS 2/10
