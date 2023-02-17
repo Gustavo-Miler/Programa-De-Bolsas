@@ -39,8 +39,8 @@ Esta seção foi feita com o propósito de acompanhar o meu progresso no Program
 - [x] Data & Analytics - PB - AWS 2/10
 - [x] SQL para Análise de Dados: Do básico ao avançado
 - [x] Data & Analytics - PB - AWS 2/10
-- [ ] Big Data Fundamentos 3.0
-- [ ] Data & Analytics - PB - AWS 2/10
+- [x] Big Data Fundamentos 3.0
+- [x] Data & Analytics - PB - AWS 2/10
 
 #### Sprint 3 (15h29m)
 - [ ] Data & Analytics - PB - AWS 3/10
