@@ -1,0 +1,50 @@
+Ator: Harrison Ford Pagamento: 4871.70 
+Ator: Samuel L. Jackson Pagamento: 4772.80 
+Ator: Morgan Freeman Pagamento: 4468.30 
+Ator: Tom Hanks Pagamento: 4340.80 
+Ator: Robert Downey, Jr. Pagamento: 3947.30 
+Ator: Eddie Murphy Pagamento: 3810.40 
+Ator: Tom Cruise Pagamento: 3587.20 
+Ator: Johnny Depp Pagamento: 3368.60 
+Ator: Michael Caine Pagamento: 3351.50 
+Ator: Scarlett Johansson Pagamento: 3341.20 
+Ator: Gary Oldman Pagamento: 3294.00 
+Ator: Robin Williams Pagamento: 3279.30 
+Ator: Bruce Willis Pagamento: 3189.40 
+Ator: Stellan Skarsgard Pagamento: 3175.00 
+Ator: Anthony Daniels Pagamento: 3162.90 
+Ator: Ian McKellen Pagamento: 3150.40 
+Ator: Will Smith Pagamento: 3149.10 
+Ator: Stanley Tucci Pagamento: 3123.90 
+Ator: Matt Damon Pagamento: 3107.30 
+Ator: Robert DeNiro Pagamento: 3081.30 
+Ator: Cameron Diaz Pagamento: 3031.70 
+Ator: Liam Neeson Pagamento: 2942.70 
+Ator: Andy Serkis Pagamento: 2890.60 
+Ator: Don Cheadle Pagamento: 2885.40 
+Ator: Ben Stiller Pagamento: 2827.00 
+Ator: Helena Bonham Carter Pagamento: 2822.00 
+Ator: Woody Harrelson Pagamento: 2815.80 
+Ator: Orlando Bloom Pagamento: 2815.80 
+Ator: Cate Blanchett Pagamento: 2802.60 
+Ator: Julia Roberts Pagamento: 2735.30 
+Ator: Elizabeth Banks Pagamento: 2726.30 
+Ator: Ralph Fiennes Pagamento: 2715.30 
+Ator: Emma Watson Pagamento: 2681.90 
+Ator: Tommy Lee Jones Pagamento: 2681.30 
+Ator: Brad Pitt Pagamento: 2680.90 
+Ator: Adam Sandler Pagamento: 2661.00 
+Ator: Daniel Radcliffe Pagamento: 2634.40 
+Ator: Jonah Hill Pagamento: 2605.10 
+Ator: Owen Wilson Pagamento: 2602.30 
+Ator: Idris Elba Pagamento: 2580.60 
+Ator: Bradley Cooper Pagamento: 2557.70 
+Ator: Mark Wahlberg Pagamento: 2549.80 
+Ator: Jim Carrey Pagamento: 2545.20 
+Ator: Dustin Hoffman Pagamento: 2522.10 
+Ator: Leonardo DiCaprio Pagamento: 2518.30 
+Ator: Jeremy Renner Pagamento: 2500.30 
+Ator: Philip Seymour Hoffman Pagamento: 2463.70 
+Ator: Sandra Bullock Pagamento: 2462.60 
+Ator: Chris Evans Pagamento: 2457.80 
+Ator: Anne Hathaway Pagamento: 2416.50 
