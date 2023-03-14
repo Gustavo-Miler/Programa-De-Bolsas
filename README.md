@@ -29,7 +29,7 @@ Esta seção foi feita com o propósito de acompanhar o meu progresso no Program
 - [x] Programação funcional: O que é? | Alura
 - [x] python-funcional/00_introducao.md at master · dunossauro/python-funcional
 - [x] Docker para Desenvolvedores (com Docker Swarm e Kubernetes)
-- [ ] Estatística Descritiva com Python
-- [ ] Data & Analytics - PB - AWS 4/10
+- [x] Estatística Descritiva com Python
+- [x] Data & Analytics - PB - AWS 4/10
 
 #### Mais sprints em breve
