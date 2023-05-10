@@ -1,7 +1,7 @@
 import boto3
 import datetime
 
-session = boto3.Session(profile_name="487725688515_AdministratorAccess",region_name="us-east-1")
+session = boto3.Session(profile_name="xxxxxxxxxxx_AdministratorAccess",region_name="us-east-1")
 
 s3 = session.client('s3')
 
